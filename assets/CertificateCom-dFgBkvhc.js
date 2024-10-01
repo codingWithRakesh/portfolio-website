@@ -1,1 +1,0 @@
-import{j as e,h as s}from"./index-jsc_Ghat.js";import{L as a}from"./index-IiMcSQyP.js";const l=({data:i})=>e.jsxs("div",{className:"CertificateComClass boxShadows",children:[e.jsx("div",{className:"imageCerti",children:e.jsx("img",{src:i.image,alt:s})}),e.jsxs("a",{href:i.link,target:"_blank",className:"linkCerti",children:[i.name," ",e.jsx(a,{})]})]});export{l as C};
